@@ -91,4 +91,4 @@ Ce laboratoire a pour but d'apprendre à utiliser la bibliothèque PyTorch pour 
 ## **Guide d'Utilisation**
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/lab2-pytorch.git
+   git clone https://github.com/adnanelhayani/Lab2.git
